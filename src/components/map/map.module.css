@@ -1,0 +1,17 @@
+.map {
+    height: 400px;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+
+}
+
+.hint{
+    font-size:15px;
+    text-align: start;
+    padding: 5px;
+    width: 100%;
+    font-weight: 300;
+}
+
+
